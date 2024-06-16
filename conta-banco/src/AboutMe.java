@@ -11,9 +11,7 @@ public class ContaTerminal {
         //TODO: Conhecer e importar a classe Scanner
 
 import java.util.Locale;
-
 import java.util.Scanner;
-
 
 public class AboutMe {
     public static void main(String[] args) {
@@ -33,8 +31,11 @@ public class AboutMe {
 
         System.out.println("Qual o valor do seu depósito?");
         double saldo = scanner.nextDouble();
+    }
+    
     
         //TODO: Obter, pela classe Scanner, os valores digitados no terminal
+
 
         //TODO: Exibir a mensagem da conta criada
 
